@@ -7,4 +7,4 @@ In the project directory, you can run:
 
 ### `npm start`
 
-## clone the project and run the commond [npm start] this will start the project on localhost/3000
+## clone the project and goto the my_app folder and run the commond [npm start] this will start the project on localhost/3000
